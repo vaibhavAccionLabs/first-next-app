@@ -1,5 +1,7 @@
+import { Fragment } from "react";
+
 function AboutPage() {
-    return <div><h1>The About Page</h1></div>
+    return <Fragment><h1>The About Page</h1></Fragment>
 }
 
 export default AboutPage;
